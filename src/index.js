@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-// import App from './components/app'; 
-// import 'bootstrap/dist/css/bootstrap.min.css';
+// import '../../node_modules/react-bootstrap-table/css/react-bootstrap-table-all.min.css';
+// import 'bootstrsap/dist/css/bootstrap.min.css';
 import "./index.css"
 ReactDOM.render(
   <React.StrictMode>
